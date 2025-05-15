@@ -174,13 +174,6 @@ Spoofed entries logged in DB and CSV contain:
 ## 👤 Author
 
 **Ramya Sri Achanta**  
-_Masters in Computer Science | Network Security & Machine Learning Enthusiast_
-
----
-
-## 📄 License
-
-MIT License – Free to use and modify.
 
 ---
 
