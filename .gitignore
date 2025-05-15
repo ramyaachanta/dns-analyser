@@ -1,0 +1,45 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+.env.bak/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python & build
+*.log
+*.sqlite3
+*.db
+
+# Model files
+*.pkl
+*.joblib
+
+# Data exports
+*.csv
+*.pcap
+
+# PostgreSQL dumps (if any)
+*.sql
+
+# Streamlit temp
+.streamlit/
+
+# Pytest cache
+.cache/
+
+# Git
+.git/
